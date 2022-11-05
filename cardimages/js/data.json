@@ -1,0 +1,52 @@
+  
+  
+{
+     "Lists" : [
+          {
+              "id" : 1,
+              "numbers": "1287+",
+              "title": "SAVINGS"
+          },
+          {
+               "id" : 2,
+               "numbers": "5786+",
+               "title": "PHOTOS"
+           },
+           {
+               "id" : 3,
+               "numbers": "1440+",
+               "title": "ROCKETS"
+           },
+           {
+               "id" : 4,
+           "numbers": "7110+",
+               "title": "GLOBES"
+           }
+     ],
+     
+     "Blogs":[
+        {
+            "id":1,
+            "img":"../cardimages/01.jpg",
+            "name":"Rainbow Vegetable Sandwich",
+            "time":"Time: 15 - 20 Minutes",
+            "price":"$10.50"
+        },
+        {
+            "id":2,
+            "img":"./assets/02.jpg",
+            "name":"Vegetarian Burger",
+            "time":"Time: 30 - 45 Minutes",
+            "price":"$9.20"
+        },
+        {
+            "id":3,
+            "img":"./assets/03.jpg",
+            "name":"Raspberry Stuffed French Toast",
+            "time":"Time: 30 - 45 Minutes",
+            "price":"$9.20"
+        }
+
+     ]
+     
+}
